@@ -7,10 +7,12 @@ Shows a graph of the barrometric pressure forecast, using http://www.worldweathe
    ```
    alias pressure-forecast='/path/to/pressure-forecast.sh myZipCode myAPIKey'
    ```
+   
    example
    ```
    alias pressure-forecast='/path/to/pressure-forecast.sh 84601 ajlhs24gouhwqrljgh25afjshgou45hwqrg'
    ```
+   
 4. run `pressure-forecast`
 
 This will take a few seconds to run.
