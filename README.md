@@ -1,5 +1,5 @@
 # pressure-forecast
-Shows a graph of the barrometric pressure forecast, using http://www.worldweatheronline.com/api/local-city-town-weather-api.aspx.
+Shows a graph of the barrometric pressure forecast, using http://www.worldweatheronline.com/api/local-city-town-weather-api.aspx and https://developers.google.com/chart/image/docs/gallery/line_charts.
 
 1. Get a free api key from https://developer.worldweatheronline.com/auth/register
 2. Clone this repo
